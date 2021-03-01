@@ -65,7 +65,21 @@ ul#label li {
    letter-spacing: .5px;
  }
 
- @media only screen and (max-width: 1400px)
+ #cta a, #cta:visited {
+     color: black;
+ }
+ #cta {
+     text-align: center;
+     padding: 10px;
+     font-size: .7rem;
+     letter-spacing: 1.5px;
+     text-transform: uppercase;
+     font-weight: bold;
+ }
+
+
+ 
+ @media only screen and (max-width: 1300px)
  {
      .main-left, .main-right
      {
