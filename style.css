@@ -65,7 +65,7 @@ ul#label li {
    letter-spacing: .5px;
  }
 
- #cta a, #cta:visited {
+ #cta a, #cta:visited, {
      color: black;
  }
  #cta {
