@@ -88,6 +88,35 @@ ul#label li {
 #cta-link a {
     color: black;
 }
+
+#portfolio-card-header {
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: aquamarine;
+    padding: 3px;
+    font-weight: bold;
+
+}
+
+#portfolio-card-text {
+    color: grey;
+    text-align: center;
+}
+
+#portfolio-card-link {
+   display:inline;
+   margin-right: 5px;
+   color:white;
+   background: black;
+   padding: 5px;
+   font-size: 14px;
+   text-transform: uppercase;
+   font-weight: bold;
+   letter-spacing: .5px;
+}
+
  @media only screen and (max-width: 1300px)
  {
      .main-left, .main-right
